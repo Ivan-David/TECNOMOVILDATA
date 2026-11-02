@@ -40,4 +40,4 @@ Java Streams, expresiones lambda, inmutabilidad, funciones de orden superior, co
 
 ## Repositorio
 
-(https://github.com/mariadanielaorregopotosi/TECNOMOVILDATA.git)
+(https://github.com/Ivan-David/TECNOMOVILDATA.git)
